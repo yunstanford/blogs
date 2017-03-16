@@ -1,2 +1,5 @@
 # blogs
-some blogs
+
+some blogs.
+
+- graphite setup documentation
